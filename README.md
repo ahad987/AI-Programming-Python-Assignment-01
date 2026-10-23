@@ -116,7 +116,15 @@ ai-programming-python-assignment-01/
 
 ## 👨‍💻 Author
 
-**Your Name**
+* * *
+**Abdul Ahad Chowdhury**
+- GitHub: [@ahad987](https://github.com/ahad987)
+- Email: [ahad987@gmail.com](mailto:ahad987@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ahad1987](https://www.linkedin.com/in/ahad1987/)
+- **Facebook:** [@ahadc](https://facebook.com/ahadc)
+- **WhatsApp:** [Message on WhatsApp](https://wa.me/ahad_987/)
+- **Phone:** [+8801812148778](tel:+8801812148778)
+- Project: [https://github.com/ahad987/AI-Programming-Python-Assignment-01](https://github.com/ahad987/AI-Programming-Python-Assignment-01)
 
 ## 📄 License
 
